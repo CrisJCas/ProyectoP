@@ -1,5 +1,20 @@
 body {
     text-align: center;
     font-family: "Arial";
-    color: blueviolet;
+    font-size: 18px;
+    color: black;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #333;
+}
+
+#container h1 {
+    text-align: center;
+    font-family: "TIMES NEW ROMAN";
+    color: black;
+
 }
